@@ -1,0 +1,55 @@
+{
+  "aliases": {
+    "PRIMARY_LIGHTER": "#c3ebfa",
+    "PRIMARY_LIGHT": "#59b9de",
+    "PRIMARY": "#0d7ea2",
+    "PRIMARY_DARK": "#07648d",
+    "PRIMARY_DARKER": "#074b69",
+
+    "SECONDARY_LIGHTER": "#7efbe1",
+    "SECONDARY_LIGHT": "#1dc2ae",
+    "SECONDARY": "#008480",
+    "SECONDARY_DARK": "#0f6460",
+    "SECONDARY_DARKER": "#0b4b3f",
+
+    "BASE_LIGHTEST": "#f1f3f6",
+    "BASE_LIGHTER": "#dfe1e2",
+    "BASE_LIGHT": "#a9aeb1",
+    "BASE": "#71767a",
+    "BASE_DARK": "#565c65",
+    "BASE_DARKER": "#2d2e2f",
+    "BASE_DARKEST": "#1c1d1f",
+
+    "TEXT_LIGHTEST": "#fcfcfc",
+    "TEXT_LIGHTER": "#f0f0f0",
+    "TEXT_LIGHT": "#c9c9c9",
+    "TEXT": "#adadad",
+    "TEXT_DARK": "#757575",
+    "TEXT_DARKER": "#454545",
+    "TEXT_DARKEST": "#1b1b1b",
+
+    "INFO_LIGHTER": "#a8f2ff",
+    "INFO_LIGHT": "#00bde3",
+    "INFO": "#0081a1",
+    "INFO_DARK": "#00687d",
+    "INFO_DARKER": "#0e4f5c",
+
+    "SUCCESS_LIGHTER": "#b7f5bd",
+    "SUCCESS_LIGHT": "#21c834",
+    "SUCCESS": "#008817",
+    "SUCCESS_DARK": "#216e1f",
+    "SUCCESS_DARKER": "#154c21",
+
+    "WARNING_LIGHTER": "#fff5c2",
+    "WARNING_LIGHT": "#fee685",
+    "WARNING": "#ffbe2e",
+    "WARNING_DARK": "#ddaa01",
+    "WARNING_DARKER": "#947100",
+
+    "ERROR_LIGHTER": "#fce1d4",
+    "ERROR_LIGHT": "#f39268",
+    "ERROR": "#d54309",
+    "ERROR_DARK": "#9c3d10",
+    "ERROR_DARKER": "#63340f"
+  }
+}

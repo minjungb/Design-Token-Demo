@@ -1,0 +1,97 @@
+{
+  "global": {
+    "type": "color/rgb",
+    "category": "background-color"
+  },
+  "imports": ["./aliases.json"],
+  "props": {
+    "COOL_BLUE_10": {
+      "value": "{!PRIMARY_LIGHTER}"
+    },
+    "COOL_BLUE_30": {
+      "value": "{!PRIMARY_LIGHT}"
+    },
+    "COOL_BLUE_50": {
+      "value": "{!PRIMARY}",
+      "comment": "Insufficient contrast for background fills."
+    },
+    "COOL_BLUE_60": {
+      "value": "{!PRIMARY_DARK}"
+    },
+    "COOL_BLUE_70": {
+      "value": "{!PRIMARY_DARKER}"
+    },
+
+    "COOL_MINT_10": {
+      "value": "{!SECONDARY_LIGHTER}"
+    },
+    "COOL_MINT_30": {
+      "value": "{!SECONDARY_LIGHT}"
+    },
+    "COOL_MINT_50": {
+      "value": "{!SECONDARY}",
+      "comment": "Insufficient contrast for background fills."
+    },
+    "COOL_MINT_60": {
+      "value": "{!SECONDARY_DARK}"
+    },
+    "COOL_MINT_70": {
+      "value": "{!SECONDARY_DARKER}"
+    },
+
+    "COOL_GRAY_4": {
+      "value": "{!BASE_LIGHTEST}"
+    },
+    "COOL_GRAY_10": {
+      "value": "{!BASE_LIGHTER}"
+    },
+    "COOL_GRAY_30": {
+      "value": "{!BASE_LIGHT}",
+      "comment": "Insufficient contrast for background fills."
+    },
+    "COOL_GRAY_50": {
+      "value": "{!BASE_LIGHT}",
+      "comment": "Insufficient contrast for background fills."
+    },
+
+    "COOL_GRAY_60": {
+      "value": "{!BASE_DARK}",
+      "comment": "Insufficient contrast for background fills."
+    },
+    "COOL_GRAY_80": {
+      "value": "{!BASE_DARKER}"
+    }
+
+    // "CYAN_10": {
+    //   "value": "{!INFO_LIGHTER}"
+    // },
+    // "CYAN_30": {
+    //   "value": "{!INFO_LIGHT}"
+    // },
+    // "CYAN_50": {
+    //   "value": "{!INFO}"
+    // },
+    // "CYAN_60": {
+    //   "value": "{!INFO_DARK}"
+    // },
+    // "CYAN_70": {
+    //   "value": "{!INFO_DARKER}"
+    // },
+
+    // "COOL_GREEN_10": {
+    //   "value": "{!SUCCESS_LIGHTER}"
+    // },
+    // "COOL_GREEN_30": {
+    //   "value": "{!SUCCESS_LIGHT}"
+    // },
+    // "COOL_GREEN_50": {
+    //   "value": "{!SUCCESS}"
+    // },
+    // "COOL_GREEN_60": {
+    //   "value": "{!SUCCESS_DARK}"
+    // },
+    // "COOL_GREEN_70": {
+    //   "value": "{!SUCCESS_DARKER}"
+    // }
+  }
+}

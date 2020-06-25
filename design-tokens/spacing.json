@@ -1,0 +1,26 @@
+{
+  "global": {
+    "type": "size",
+    "category": "spacing"
+  },
+  "props": {
+    "SPACING_MICRO": {
+      "value": "8px"
+    },
+    "SPACING_X_S": {
+      "value": "12px"
+    },
+    "SPACING_S_M": {
+      "value": "16px"
+    },
+    "SPACING_M": {
+      "value": "20px"
+    },
+    "SPACING_L": {
+      "value": "40px"
+    },
+    "SPACING_X_L": {
+      "value": "80px"
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "global": {
+    "type": "color/rgb",
+    "category": "text-color"
+  },
+  "imports": ["./aliases.json"],
+  "props": {
+    // "COLOR_TEXT": {
+    //   "value": "{!TEXT}"
+    // },
+    "GRAY_1": {
+      "value": "{!TEXT_LIGHTEST}"
+    },
+    "GRAY_5": {
+      "value": "{!TEXT_LIGHTER}"
+    },
+    "GRAY_20": {
+      "value": "{!TEXT_LIGHT}"
+    },
+    "GRAY-30": {
+      "value": "{!TEXT}"
+    },
+    "GRAY_50": {
+      "value": "{!TEXT_DARK}"
+    },
+    "GRAY_70": {
+      "value": "{!TEXT_DARKER}"
+    },
+    "GRAY_90": {
+      "value": "{!TEXT_DARKEST}"
+    }
+  }
+}

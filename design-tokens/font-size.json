@@ -1,0 +1,26 @@
+{
+  "global": {
+    "type": "size",
+    "category": "font-size"
+  },
+  "props": {
+    "FONT_BODY": {
+      "value": "14px"
+    },
+    "HEADING_X_SMALL": {
+      "value": "16px"
+    },
+    "HEADING_SMALL": {
+      "value": "20px"
+    },
+    "HEADING_MEDIUM": {
+      "value": "22px"
+    },
+    "HEADING_LARGE": {
+      "value": "25px"
+    },
+    "HEADING_X_LARGE": {
+      "value": "28px"
+    }
+  }
+}

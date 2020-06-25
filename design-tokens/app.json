@@ -1,0 +1,9 @@
+{
+  "imports": [
+    "./aliases.json",
+    "./font-size.json",
+    "./spacing.json",
+    "./text.json",
+    "./colors.json"
+  ]
+}
